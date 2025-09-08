@@ -206,7 +206,8 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 
 -*Email**:eshwarthota2211@gamil.com
-- **LinkedIn**: [Connect with me professionally]([www.linkedin.com/in/eshwarthota](https://www.linkedin.com/in/eshwar-thota-162a08327/))
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/eshwar-thota-162a0832/)
+
 
 
 Thank you for your support, and I look forward to connecting with you!
